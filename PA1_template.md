@@ -315,6 +315,7 @@ g3
 ![](PA1_template_files/figure-html/weeksplit_histogram-1.png) 
 
 By looking at the above plot, we notice that activity patterns between weekdays and weekends are slightly different.
+
 There is an **activity peak** in the beginning of a _regular weekday_.
 
 
