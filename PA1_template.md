@@ -1,7 +1,7 @@
 # Reproducible Research: Peer Assessment 1
  
 *By Aljaziri @GitHub.com*  
-*Assignment Date: 17 Aug 2015* 
+*Assignment Date: 10 Sep 2015* 
 ___________________________________________________________________________________________
 
 ### Pre-analysis Tasks
